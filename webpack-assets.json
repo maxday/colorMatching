@@ -1,12 +1,12 @@
 {
   "vendor": {
-    "js": "angular/vendor.c58e4fa872f046016bb8.bundle.js"
+    "js": "colorMatching/vendor.c58e4fa872f046016bb8.bundle.js"
   },
   "main": {
-    "js": "angular/main.8a04c6ab2c176d783db6.bundle.js",
-    "css": "angular/main.b4307964846f7e9332e93fbcf24e4cec.css"
+    "js": "colorMatching/main.45e4fad9d676e9ebe4c7.bundle.js",
+    "css": "colorMatching/main.60d45dc61e55b2b4b2a9e4ce49a26c94.css"
   },
   "polyfills": {
-    "js": "angular/polyfills.f633145eef76d8f35486.bundle.js"
+    "js": "colorMatching/polyfills.5bc110f295f9a0e2f839.bundle.js"
   }
 }
